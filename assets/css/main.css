@@ -113,7 +113,8 @@ blockquote.twitter-tweet::before {
   border-right: 1px solid color-mix(in srgb, var(--accent) 10%, transparent);
 }
 
-.container.full, .container.center {
+.container.full,
+.container.center {
   border: none;
   margin: 0 auto;
 }
